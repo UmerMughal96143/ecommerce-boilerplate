@@ -1,0 +1,5 @@
+node_modules/
+data/users.json
+data/reviews.json
+config/config.env
+client/build/
